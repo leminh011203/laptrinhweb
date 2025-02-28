@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Đây là file text test_conflict của Branch Master
+=======
+Đây là file text test_conflict của Branch Conflict
+>>>>>>> test_conflict
