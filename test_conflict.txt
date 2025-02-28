@@ -1,0 +1,1 @@
+Đây là file text test_conflict của Branch Conflict
